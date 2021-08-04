@@ -1,0 +1,7 @@
+{
+  "name": "newfeature",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
